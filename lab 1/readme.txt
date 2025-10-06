@@ -1,4 +1,4 @@
-ey there! Welcome to my portfolio project.
+Hey there! Welcome to my portfolio project.
 This is a simple one-page website that I built to learn and practice HTML while creating something useful for myself.
 Tags Used
 
