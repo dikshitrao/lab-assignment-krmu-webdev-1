@@ -1,5 +1,6 @@
 Hey there! Welcome to my portfolio project.
-This is a simple one-page website that I built to learn and practice HTML while creating something useful for myself.
+This is a simple one-page website that I built to learn and practice HTML while creating something useful for myself.In addition to this i have also used CSS to my project.
+
 Tags Used
 
 Here are the main HTML tags I practiced with:
